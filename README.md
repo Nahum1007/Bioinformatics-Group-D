@@ -18,6 +18,5 @@ Analyse and accurately interpret biodata from a biological perspective
 Group D Bioinformatics 
 
 Joseph Nahum                  UG17/MDHA/1007,
-Ibrahim Faisal Thuwa          UG19/MDHA/2001,
 Abdulrahman Amirah            UG18/MDHA/1005,
 Muhammad Asma'u Ibrahim       UG18/MDHA/1027,
