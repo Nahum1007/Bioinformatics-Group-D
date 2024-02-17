@@ -20,3 +20,5 @@ Group D Bioinformatics
 Joseph Nahum                  UG17/MDHA/1007,
 Abdulrahman Amirah            UG18/MDHA/1005,
 Muhammad Asma'u Ibrahim       UG18/MDHA/1027,
+SHEHU AISHATU LAMUWA          UG18/MDHA/1029,
+ABUBAKAR HAUWAU YARO          UG18/MDHA/1003
